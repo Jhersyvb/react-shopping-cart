@@ -147,3 +147,48 @@ footer {
 .filter div {
   flex: 1;
 }
+
+/* Cart */
+.cart {
+  display: flex;
+  margin: 1rem;
+  padding: 1rem;
+}
+.cart-header {
+  border-bottom: 0.1rem #c0c0c0 solid;
+}
+.cart-items {
+  list-style-type: none;
+  padding: 0;
+  width: 100%;
+}
+.cart-items img {
+  width: 5rem;
+}
+.cart-items li {
+  display: flex;
+}
+.cart-items li div {
+  padding: 0.5rem;
+}
+.cart-items li div:last-child {
+  flex: 1;
+}
+.right {
+  text-align: right;
+}
+.total {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+.total .text,
+.total .button {
+  flex: 1;
+}
+.total .text {
+  font-size: 2rem;
+  margin-right: 1rem;
+  white-space: nowrap;
+}
