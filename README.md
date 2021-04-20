@@ -11,3 +11,4 @@
 * 01:51:17 Part 08- Checkout Form (Handle Forms)
 * 02:11:20 Part 09- Add Animations and Modals (React-Reveal)
 * 02:32:12 Part 10- Backend API (Node & MongoDB)
+* 02:58:10 Part 11- Add Redux To Product List (Redux)
