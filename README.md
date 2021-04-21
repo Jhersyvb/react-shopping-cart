@@ -14,3 +14,4 @@
 * 02:58:10 Part 11- Add Redux To Product List (Redux)
 * 03:23:54 Part 12- Add Redux To Filter Bar (Redux)
 * 03:48:09 Part 13- Redux To Cart (Redux)
+* 04:09:41 Part 14- Create Order (Fetch API)
